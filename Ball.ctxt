@@ -1,8 +1,22 @@
 #BlueJ class context
-comment0.params=x\ y
-comment0.target=Ball(int,\ int)
+comment0.params=x\ y\ dx\ dy
+comment0.target=Ball(int,\ int,\ int,\ int)
 comment1.params=g
 comment1.target=void\ paintComponent(java.awt.Graphics)
 comment2.params=e
 comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
-numComments=3
+comment3.params=
+comment3.target=void\ moveUp()
+comment4.params=
+comment4.target=void\ moveDown()
+comment5.params=
+comment5.target=void\ moveLeft()
+comment6.params=
+comment6.target=void\ moveRight()
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=10
